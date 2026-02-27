@@ -9,6 +9,7 @@ fun countVowels(input: String): Int {
     return count
 }
 
+
 fun main(){
     println("Podaj słowo")
     val input = readln()
