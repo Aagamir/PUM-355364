@@ -1,4 +1,5 @@
 fun foo(num: Int): String  {
+    var result = ""
     if (num % 3 == 0)
         result += ("trzy")
     if (num % 5 == 0)
@@ -9,8 +10,8 @@ fun foo(num: Int): String  {
 }
 
 fun main() {
+    val num = 15
     for (i in 1..num) {
         println(foo(i))
-        result = ""
     }
 }
