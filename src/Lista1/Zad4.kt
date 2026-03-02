@@ -1,4 +1,4 @@
-
+package Lista1
 fun isPerfect(input: Int, dividers: MutableList<Int>): Int{
     var sum = 0
     for (i in 1..input-1){

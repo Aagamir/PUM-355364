@@ -1,3 +1,5 @@
+package Lista1
+
 import kotlin.math.pow
 
 fun isArmstrong(input: Int, cyfry: MutableList<Int>): Boolean {

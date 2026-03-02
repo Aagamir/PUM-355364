@@ -1,4 +1,4 @@
-
+package Lista1
 fun isPrime(input: Int, dividers: MutableList<Int>){
     var sum = 0
     for (i in 1..input-1){

@@ -1,3 +1,5 @@
+package Lista1
+
 fun palindrome(input: String) {
     val input_rev = input.reversed()
     if (input.lowercase() == input_rev.lowercase()) {

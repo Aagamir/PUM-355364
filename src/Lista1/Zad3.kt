@@ -1,3 +1,5 @@
+package Lista1
+
 fun generatePascalsTriangle(n: Int): List<List<Int>> {
     val triangle = mutableListOf<List<Int>>()
 

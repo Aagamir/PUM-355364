@@ -1,3 +1,5 @@
+package Lista1
+
 fun foo(num: Int): String  {
     var result = ""
     if (num % 3 == 0)

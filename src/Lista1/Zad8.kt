@@ -1,3 +1,5 @@
+package Lista1
+
 fun countVowels(input: String): Int {
     var count = 0
     val vowels = mutableListOf("a", "e", "i", "o", "u", "y")

@@ -1,4 +1,4 @@
-
+package Lista1
 fun sumEven(input: Int): Int{
     var sum = 0
     for (i in 1 .. input)
